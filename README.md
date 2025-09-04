@@ -44,11 +44,11 @@ cd Student_Data_Management_System
 
 2. Compile the Program
 
-javac StudentApp.java
+javac Student.java
 
 3. Run the Application
 
-java StudentApp
+java Student
 
 
 
